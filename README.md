@@ -1,13 +1,14 @@
 Hello and welcome to Denoising_HPatches_for_Descriptor_Learning.
+
 This repository contains the software submission for the Deep learning coursework at Imperial College London.
 
 Submission details:
-Name: Antonio Enas
-CID: 01070859
-Login: AE1115
+- Name: Antonio Enas
+- CID: 01070859
+- Login: AE1115
 
 Further instructions:
-All codes in the repository are accompanied by detailed instructions and comments. The content of each code/folder is explained below.
+- All codes in the repository are accompanied by detailed instructions and comments. The content of each code/folder is explained below.
 
 In this folder:
 

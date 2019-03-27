@@ -22,8 +22,6 @@ In this folder:
   This Colaboratory notebook generates, trains and saves the improved descriptor model based on adapted loss function.
 - 5_complete_evaluation.ipynb
   This Colaboratory notebook contains all the codes for qualitative and quantitative analysis and evaluation.
-- Trained_models.zip
-  This folder contains all trained models in .h5 format, to be uploaded in the Colaboratory session when running Complete_evaluation.ipynb
 - AE1115.zip
-  This folder contains all the above in a downloadable .zip format
-  
+  This folder contains all the codes above in a downloadable .zip format
+- Trained keras models (.h5 files) in the respective .zip folders
